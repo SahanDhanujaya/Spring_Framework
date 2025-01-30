@@ -15,6 +15,8 @@
         <option value="$PROJECT_DIR$/04_FullModeVsLightMode/pom.xml" />
         <option value="$PROJECT_DIR$/Configuration/pom.xml" />
         <option value="$PROJECT_DIR$/05_Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/O6_Runtime_Value_Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/06_Runtime_Value_Injection/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
