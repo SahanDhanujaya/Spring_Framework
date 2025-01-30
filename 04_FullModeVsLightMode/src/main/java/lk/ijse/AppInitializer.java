@@ -10,6 +10,5 @@ public class AppInitializer {
         context.register(AppConfig.class);
         context.refresh();
         context.registerShutdownHook();
-
     }
 }
